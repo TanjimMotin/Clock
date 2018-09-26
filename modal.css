@@ -1,0 +1,27 @@
+a{
+	text-decoration: none;
+}
+.nav{
+	text-align: center;
+	border:2px solid;
+	background-color: lightgrey;
+	color:black;
+	font-size: 3em;
+}
+.clock{
+	text-align: center;
+	margin: 10% auto;
+	font-size: 5em;
+	background-color: yellow;
+	border:2px solid;
+	width: 80%;
+	text-shadow: 2px 2px black;
+}
+#box{
+   background-image : url('imag3.jpg');
+   background-size : 100% 100%;
+   text-shadow : 1px 1px ;
+ 
+ 
+}
+

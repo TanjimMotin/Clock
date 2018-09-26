@@ -1,0 +1,48 @@
+.digital{
+
+
+  margin-top: 20%; 
+  margin-left: 19%;
+
+}
+
+
+.clock{
+
+  display:inline-block;
+  
+ 
+ 
+
+}
+
+
+
+
+#hour  {
+	
+
+	
+	width: 230px;
+	height: 230px;
+	border: 5px; 
+	background-color: grey;
+}
+
+ #minute{
+	width: 260px;
+	height: 230px;
+	border: 5px; 
+	background-color: grey;
+}
+
+#second{
+  width: 260px;
+	height: 230px;
+	border: 5px; 
+	background-color: grey;
+}
+
+
+
+
